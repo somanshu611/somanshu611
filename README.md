@@ -1,5 +1,6 @@
-<h1>Hello, my name is Somanshu 
-I am currently pursuing BTech in Computer Science and Engineering at Bennett University, Greater Noida
+<h1>Hello, my name is Somanshu.
+ 
+ I am currently pursuing BTech in EEE at University Institute of Technology, RGPV.
 </h1>
 <hr>
 

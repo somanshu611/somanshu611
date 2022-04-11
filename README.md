@@ -1,6 +1,6 @@
-<h1>Hello, my name is Somanshu.
+<h1>Hi, I'm somanshu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  
- I am currently pursuing BTech in EEE at University Institute of Technology, RGPV.
+I am currently pursuing BTech in EEE at University Institute of Technology, RGPV. 
 </h1>
 <hr>
 

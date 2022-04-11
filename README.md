@@ -1,6 +1,6 @@
-<h1>Hi, I'm Somanshu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1>Hi there, I'm Somanshu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  
-I am currently pursuing BTech in EEE at University Institute of Technology, RGPV. 
+I am a DS & ML Enthusiast who loves to brainstorm problems.
 </h1>
 <hr>
 
